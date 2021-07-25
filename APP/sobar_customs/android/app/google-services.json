@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "106886718877",
+    "project_id": "amar-customs",
+    "storage_bucket": "amar-customs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106886718877:android:ec7e04f476a6e504dbfb74",
+        "android_client_info": {
+          "package_name": "depara.nazmul81.sobar_customs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106886718877-r3is35iur1akmklob2itvrqpbclohnh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "depara.nazmul81.sobar_customs",
+            "certificate_hash": "f743694921ac49802f79ca18bc139805217cf4e8"
+          }
+        },
+        {
+          "client_id": "106886718877-g2urluopu3vc49f90fl48fibo709d4l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC0528Lttf2max-6HBQZrG3hIJ_D9OaSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106886718877-g2urluopu3vc49f90fl48fibo709d4l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
